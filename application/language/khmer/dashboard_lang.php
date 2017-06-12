@@ -1,0 +1,40 @@
+<?php
+//general
+$lang['das_welcome_user'] = 'Welcome to';
+$lang['das_profile'] = 'Profile';
+$lang['das_setting'] = 'Settings';
+$lang['das_help'] = 'Help';
+$lang['das_logout'] = 'Logout';
+$lang['das_welcome_user'] = 'Welcome';
+//menu
+$lang['das_menu_title'] = 'Menu';
+$lang['das_menu_dashboard'] = 'Dashboard';
+$lang['das_menu_dashboard_home'] = 'Home Dashboard';
+$lang['das_menu_stock'] = 'Stock Module';
+$lang['das_menu_stock_add'] = 'Add New';
+$lang['das_menu_stock_view'] = 'View Stock';
+$lang['das_menu_stock_import'] = 'Import';
+$lang['das_menu_stock_export'] = 'Export';
+$lang['das_menu_stock_adjust'] = 'Adjust Stock';
+$lang['das_menu_customer'] = 'Customer Module';
+$lang['das_menu_customer_add'] = 'Add New';
+$lang['das_menu_customer_view'] = 'View Customer';
+$lang['das_menu_customer_import'] = 'Import';
+$lang['das_menu_customer_export'] = 'Export';
+$lang['das_menu_reminder'] = 'Reminder';
+$lang['das_menu_reminder_calendar'] = 'Calendar';
+$lang['das_menu_reminder_customer_payment'] = 'Customer Payment';
+$lang['das_menu_reminder_meeting'] = 'Meeting';
+$lang['das_menu_reminder_email'] = 'Email';
+$lang['das_menu_sale'] = 'Sale Module';
+$lang['das_menu_sale_pos'] = 'POS';
+$lang['das_menu_sale_add'] = 'Add New';
+$lang['das_menu_sale_view'] = 'View Sale';
+$lang['das_menu_sale_adjust'] = 'Adjust Invoice';
+$lang['das_menu_report'] = 'Report';
+$lang['das_menu_report_sale'] = 'Report Sale';
+$lang['das_menu_report_stock'] = 'Report stock';
+$lang['das_menu_report_income'] = 'Report Invomce';
+$lang['das_menu_report_expend'] = 'Report Expend';
+$lang['das_second_menu'] = 'Other';
+$lang['das_second_menu_theme'] = 'Theme';

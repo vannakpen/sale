@@ -1,0 +1,22 @@
+<?php
+$lang["msg_first_name"] = "First Name";
+$lang["msg_last_name"] = "Last Name";
+$lang["msg_dob"] = "Date of Birth";
+$lang["msg_address"] = "Address";
+$lang['msg_required'] = 'This field required. Please input value';
+$lang['msg_text_required'] = 'Please input value.';
+$lang['msg_email_required'] = 'Please input email.';
+$lang['msg_number_required'] = 'Please input only number.';
+$lang['msg_login_failed'] = 'In correct email or password.';
+$lang['msg_save_success'] = 'The transaction has been created successfully.';
+$lang['msg_save_fail'] = 'The transaction has not been created successfully. Please try again.';
+$lang['msg_update_success'] = 'The transaction has been updated successfully.';
+$lang['msg_update_fail'] = 'The transaction has not been updated successfully. Please try again.';
+$lang['msg_delete_success'] = 'The transaction has been deleted successfully.';
+$lang['msg_delete_fail'] = 'The transaction has not been deleted successfully. Please try again.';
+$lang['msg_transaction_success'] = 'The transaction has been completed.';
+$lang['msg_transaction_fail'] = 'The transaction has been failed. Please try again.';
+$lang['msg_require_measure'] = 'សូមបញ្ចូលឈ្មោះខ្នាត!';
+$lang['msg_require_parent'] = 'Please sellect parent measure!';
+$lang['msg_login_fail'] = 'Login failed. Please try again!';
+$lang['msg_confirm_remove'] = 'តើអ្នកពិតជាចង់លុបមែនទេ?';
